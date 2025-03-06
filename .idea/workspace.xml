@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c47e1d8-c4a9-434a-ab69-0999b9665888" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git-爬虫.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-crawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-crawler" beforeDir="false" afterPath="$PROJECT_DIR$/web-crawler" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-crawler/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/web-crawler/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-crawler/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/web-crawler/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-crawler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/web-crawler/README.md" afterDir="false" />
@@ -56,11 +50,22 @@
       <option name="presentableId" value="Default" />
       <updated>1731303943466</updated>
       <workItem from="1731303944825" duration="75000" />
-      <workItem from="1741257170722" duration="294000" />
+      <workItem from="1741257170722" duration="774000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
