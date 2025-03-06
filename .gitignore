@@ -2,6 +2,7 @@ screenshot/*.png
 mn/*.png
 mn/*.jpg
 mn/*.gif
+.idea
 
 # Logs
 logs
