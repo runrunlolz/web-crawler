@@ -3,7 +3,7 @@ const { mn } = require('./config/default');
 const srcToImg = require('./helper/srcToimg');
 
 (async () => {
-    console.log(123);
+    console.log(1232);
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto('https://image.baidu.com');
